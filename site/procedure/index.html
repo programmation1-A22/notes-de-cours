@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../img/favicon.ico">
-        <title>Procédure pour publier des fichiers Mardown dans divers formats (HTML et Power Point) - Programmation 1 - Automne 2022</title>
+        <title>Procédure - Programmation 1 - Automne 2022</title>
         <link href="../css/bootstrap.min.css" rel="stylesheet">
         <link href="../css/font-awesome.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
@@ -36,8 +36,18 @@
                             <li class="navitem">
                                 <a href=".." class="nav-link">Accueil</a>
                             </li>
-                            <li class="navitem">
-                                <a href="../apropos/" class="nav-link">À propos</a>
+                            <li class="dropdown active">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">À propos <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../apropos/" class="dropdown-item">À propos</a>
+</li>
+                                    
+<li>
+    <a href="./" class="dropdown-item active">Procédure</a>
+</li>
+                                </ul>
                             </li>
                             <li class="dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Notes de cours <b class="caret"></b></a>
@@ -48,7 +58,7 @@
 </li>
                                     
 <li>
-    <a href="../instructions-entrees-sorties/" class="dropdown-item">Semaine 2 - ...</a>
+    <a href="../instructions-entrees-sorties/" class="dropdown-item">Semaine 2 - Instruction d'entrées et sorties</a>
 </li>
                                 </ul>
                             </li>
@@ -57,11 +67,11 @@
                                 <ul class="dropdown-menu">
                                     
 <li>
-    <a href="../introduction-programmation/" class="dropdown-item">Semaine 1 - Exercice 1</a>
+    <a href="../exercices/introduction-programmation.md" class="dropdown-item">Semaine 1 - Exercice 1</a>
 </li>
                                     
 <li>
-    <a href="../instructions-entrees-sorties/" class="dropdown-item">Semaine 2 - Exercice 2</a>
+    <a href="../exercices/instructions-entrees-sorties.md" class="dropdown-item">Semaine 2 - Exercice 2</a>
 </li>
                                 </ul>
                             </li>
@@ -73,6 +83,16 @@
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../apropos/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../introduction-programmation/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
                     </ul>
                 </div>
             </div>
@@ -97,6 +117,14 @@
               <ul class="nav flex-column">
               </ul>
             </li>
+            <li class="nav-item" data-level="2"><a href="#generer-le-site-web-en-html-sur-github-pages" class="nav-link">Générer le site web en HTML sur GitHub Pages</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#generer-un-presentation-powerpoint-en-utilisant-pandoc" class="nav-link">Générer un présentation PowerPoint en utilisant Pandoc</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
             <li class="nav-item" data-level="2"><a href="#mise-a-jour-de-contenu" class="nav-link">Mise à jour de contenu</a>
               <ul class="nav flex-column">
               </ul>
@@ -117,7 +145,7 @@
 <h2 id="installation-et-configuration-des-outils-requis">Installation et configuration des outils requis</h2>
 <h3 id="telecharger-et-installer-python-python">Télécharger et installer Python {#python}</h3>
 <ol>
-<li>Télécharger la dernière version de Python en fonction de votre système d'exploitation : <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a></li>
+<li>Télécharger la dernière version de Python en fonction de votre système d'exploitation : https://www.python.org/downloads/</li>
 <li>Installer Python en suivant la procédure d'installation</li>
 </ol>
 <h3 id="github">GitHub</h3>
@@ -152,7 +180,7 @@
 <li>Rédiger le contenu. Fait un fichier .md par thématique</li>
 <li>Finaliser la navivgation. Éditer le fichier mkdocs.yml pour offrir un navigation simple et efficace</li>
 </ol>
-<h3 id="github-pages">GitHub Pages</h3>
+<h2 id="generer-le-site-web-en-html-sur-github-pages">Générer le site web en HTML sur GitHub Pages</h2>
 <p>GitHub Pages est ...</p>
 <ol>
 <li>Déployer le site dans le dossier de destination </li>
@@ -162,13 +190,25 @@
 mkdocs gh-deploy --config-file ../mes-sources/mkdocs.yml --remote-branch main
 </code></pre>
 <ol>
-<li>Configurer GitHub Pages</li>
+<li>Accéder au contenu via l'url https://username.github.io ou https://organisation.github.io</li>
+</ol>
+<h2 id="generer-un-presentation-powerpoint-en-utilisant-pandoc">Générer un présentation PowerPoint en utilisant Pandoc</h2>
+<ol>
+<li>...</li>
 </ol>
 <h2 id="mise-a-jour-de-contenu">Mise à jour de contenu</h2>
-<p>...</p>
+<ol>
+<li>Modifier le contenu</li>
+<li>Mettre à jour le contenu sur GitHub</li>
+<li>Générer le code HTML</li>
+<li>Générer la présentation PowerPoint</li>
+</ol>
+<p>À venir : Est-ce possible de générer le site automatiquement lorsque le code est déployé??</p>
 <h1 id="ressources-ressources">Ressources {#ressources}</h1>
 <ul>
-<li>Guide Markdown : <a href="https://www.markdownguide.org/">https://www.markdownguide.org/</a> </li>
+<li>Guide Markdown : https://www.markdownguide.org/</li>
+<li>MkDocs : </li>
+<li>Pandoc : https://pandoc.org/ </li>
 </ul></div>
             </div>
         </div>
