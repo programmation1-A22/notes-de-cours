@@ -1,0 +1,10 @@
+site_name: Programmation 1 - Automne 2022
+nav:
+    - Accueil: index.md
+    - À propos: apropos.md
+    - Notes de cours :
+        - Semaine 1 - Introduction à la programmation : introduction-programmation.md
+        - Semaine 2 - ... : instructions-entrees-sorties.md
+    - Exercices :
+        - Semaine 1 - Exercice 1 : introduction-programmation.md
+        - Semaine 2 - Exercice 2 : instructions-entrees-sorties.md
