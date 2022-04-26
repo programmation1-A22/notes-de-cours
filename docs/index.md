@@ -29,7 +29,7 @@
 
 | Semaine   | Thématique                                |
 |-----------|-------------------------------------------|
-| Semaine 1  | Présentation du cours et introduction à la programmation          |
+| Semaine 1  | Présentation du cours et (introduction à la programmation)[/introduction-programmation]          |
 | Semaine 2  | Structures de décision                                      |
 | Semaine 3  | Exercices et examen formatif #1                                      |
 | Semaine 4  | Structures de décision imbriquées                                      |

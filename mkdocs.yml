@@ -11,7 +11,7 @@ nav:
         - Semaine 5 - ... : enconstruction.md
         - Semaine 6 - ... : enconstruction.md
         - Semaine 7 - ... : enconstruction.md
-        - Semaine 8 - ... : inenconstructiondex.md
+        - Semaine 8 - ... : enconstruction.md
         - Semaine 9 - ... : enconstruction.md
         - Semaine 10 - ... : enconstruction.md
         - Semaine 11 - ... : enconstruction.md
@@ -21,7 +21,7 @@ nav:
         - Semaine 15 - ... : enconstruction.md
     - Exercices :
         - Semaine 1 - Exercice 1 : 'exercices/introduction-programmation.md'
-        - Semaine 2 - Exercice 2 : enconstruction
+        - Semaine 2 - Exercice 2 : enconstruction.md
     - À propos: 
         - À propos : apropos.md
         - Procédure : procedure.md
