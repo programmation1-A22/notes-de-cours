@@ -21,7 +21,7 @@
 
 ## Définitions
 
-## Programmation​
+### Programmation​
 
 Travail consistant à définir une séquence d’instructions qui seront exécutées par un ordinateur.​
 
@@ -37,27 +37,33 @@ Un bon programme :​
 
 * doit être fonctionnel (qu’il accomplisse la tâche qu’on lui demande);​
 * peut être lu et compris;​
-*peut être modifié, si nécessaire;​
+* peut être modifié, si nécessaire;​
 * respecte l’échéancier et le budget fixés.
 
-## Étapes de résolution d'un problème​
+### Résolution d'un problème​
 
-1. Analyse - Comprendre (définir) le problème. Cette étape est primordiale. Comment faire un programme si vous ne comprenez pas ce qu’il doit faire ????​​
+#### Analyse 
+Comprendre (définir) le problème. Cette étape est primordiale. Comment faire un programme si vous ne comprenez pas ce qu’il doit faire ????​​
 
-2. Solution générale (algorithme) - Définir une séquence d’opérations permettant de résoudre le problème dans un langage de tous les jours.​​
+#### Solution générale (algorithme) 
+Définir une séquence d’opérations permettant de résoudre le problème dans un langage de tous les jours.​​
 
-3. Vérification - Effectuer ces opérations pour voir si la solution résout effectivement le problème.
+#### Vérification 
+Effectuer ces opérations pour voir si la solution résout effectivement le problème.
 
-## Étapes de mise en oeuvre du programme
+### Mise en oeuvre du programme
 
-1. Solution particulière (programme) - Traduire l’algorithme dans un langage de programmation.​
+#### Solution particulière (programme) 
+Traduire l’algorithme dans un langage de programmation.​
 
-2. Mise au point - Faire exécuter les instructions par l’ordinateur. Vérifier les résultats et corriger le programme jusqu’à ce qu’il fonctionne correctement.​
+#### Mise au point
+Faire exécuter les instructions par l’ordinateur. Vérifier les résultats et corriger le programme jusqu’à ce qu’il fonctionne correctement.​
 
-3. Utilisation - Se servir du programme.
+#### Utilisation 
+Se servir du programme.
 
-## Algorithme 
-Un algorithme, c’est une séquence d’opérations à effectuer pour résoudre un problème en un nombre fini d’étapes.​
+### Algorithme 
+Séquence d’opérations à effectuer pour résoudre un problème en un nombre fini d’étapes.​
 
 Vous faites des algorithmes tous les jours ! Vous êtes étonnés ? Eh oui! puisqu’un algorithme est simplement une description verbale ou écrite indiquant l’enchaînement des actions nécessaires à l’accomplissement d’une tâche.​
 
@@ -106,7 +112,7 @@ les données qui font l’objet de l’opération.
 
 ## <span style="color:red">Comme on apprend la logique de la programmation, le cours de **Programmation 1** pourrait se donner dans **n’importe quel langage**.​</span>
 
-## C#
+## C\#
 
 C# (prononcé C sharp) est un langage de programmation orienté objet à typage fort, créé par la société Microsoft, et notamment un de ses employés, Anders Hejlsberg, le créateur du langage Delphi.​​
 
