@@ -69,8 +69,9 @@ mkdocs gh-deploy --config-file ../mes-sources/mkdocs.yml --remote-branch main
 ## Mise à jour de contenu
 
 1. Modifier le contenu
-2. Générer le code HTML
-3. Générer la présentation PowerPoint
+2. Mettre à jour le contenu sur GitHub
+3. Générer le code HTML
+4. Générer la présentation PowerPoint
 
 À venir : Est-ce possible de générer le site automatiquement lorsque le code est déployé??
 
