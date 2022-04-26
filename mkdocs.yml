@@ -8,5 +8,5 @@ nav:
         - Semaine 1 - Introduction à la programmation : introduction-programmation.md
         - Semaine 2 - Instruction d'entrées et sorties : instructions-entrees-sorties.md
     - Exercices :
-        - Semaine 1 - Exercice 1 : 'exercices/introduction-programmation.md'
-        - Semaine 2 - Exercice 2 : 'exercices/instructions-entrees-sorties.md'
+        - Semaine 1 - Exercice 1 : '/exercices/introduction-programmation.md'
+        - Semaine 2 - Exercice 2 : '/exercices/instructions-entrees-sorties.md'
