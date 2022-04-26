@@ -4,7 +4,7 @@
 
 ### Télécharger et installer Python {#python}
 
-1. Télécharger la dernière version de Python en fonction de votre système d'exploitation : [https://www.python.org/downloads/](https://www.python.org/downloads/)
+1. Télécharger la dernière version de Python en fonction de votre système d'exploitation : https://www.python.org/downloads/
 2. Installer Python en suivant la procédure d'installation
 
 
@@ -47,7 +47,7 @@ Cette commande créera :
 3. Rédiger le contenu. Fait un fichier .md par thématique
 4. Finaliser la navivgation. Éditer le fichier mkdocs.yml pour offrir un navigation simple et efficace
 
-### GitHub Pages
+## Générer le site web en HTML sur GitHub Pages
 
 GitHub Pages est ...
 
@@ -60,12 +60,22 @@ cd ../organisation.github.io/
 mkdocs gh-deploy --config-file ../mes-sources/mkdocs.yml --remote-branch main
 ```
 
-2. Configurer GitHub Pages
+2. Accéder au contenu via l'url https://username.github.io ou https://organisation.github.io
+
+## Générer un présentation PowerPoint en utilisant Pandoc
+
+1. ...
 
 ## Mise à jour de contenu
 
-...
+1. Modifier le contenu
+2. Générer le code HTML
+3. Générer la présentation PowerPoint
+
+À venir : Est-ce possible de générer le site automatiquement lorsque le code est déployé??
 
 # Ressources {#ressources}
 
-* Guide Markdown : [https://www.markdownguide.org/](https://www.markdownguide.org/) 
+* Guide Markdown : https://www.markdownguide.org/
+* MkDocs : 
+* Pandoc : https://pandoc.org/ 
