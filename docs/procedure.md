@@ -2,10 +2,10 @@
 
 ## Installation et configuration des outils requis
 
-### Télécharger et installer Python {#python}
+### Télécharger et installer Python
 
 1. Télécharger la dernière version de Python en fonction de votre système d'exploitation : https://www.python.org/downloads/
-2. Installer Python en suivant la procédure d'installation
+2. Installer Python en suivant la procédure d'installation 
 
 
 ### GitHub
@@ -23,7 +23,7 @@ MkDocs est un outil permettant de générer un site Web à partir de fichiers é
 
 1. Installer MkDock 
 
-Ouvrir un terminal et exécuter la commande suivante ((Python)[#python] doit être installé sur le poste) : 
+Ouvrir un terminal et exécuter la commande suivante (Python)[t%C3%A9l%C3%A9charger-et-installer-python] doit être installé sur le poste) : 
 
 ```pip install mkdocs```
 
