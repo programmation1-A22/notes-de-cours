@@ -19,6 +19,8 @@
 
 **C’est donc le programmeur qui se charge de l’étape de résolution : il doit définir une solution et la transmettre à l’ordinateur. L’un des avantages d’utiliser un ordinateur plutôt qu’un humain, c’est ????​**
 
+------------------
+
 ## Définitions
 
 ### Programmation​
@@ -40,6 +42,8 @@ Un bon programme :​
 * peut être modifié, si nécessaire;​
 * respecte l’échéancier et le budget fixés.
 
+------------------
+
 ### Résolution d'un problème​
 
 #### Analyse 
@@ -50,6 +54,8 @@ Définir une séquence d’opérations permettant de résoudre le problème dans
 
 #### Vérification 
 Effectuer ces opérations pour voir si la solution résout effectivement le problème.
+
+------------------
 
 ### Mise en oeuvre du programme
 
@@ -62,6 +68,8 @@ Faire exécuter les instructions par l’ordinateur. Vérifier les résultats et
 #### Utilisation 
 Se servir du programme.
 
+------------------
+
 ### Algorithme 
 Séquence d’opérations à effectuer pour résoudre un problème en un nombre fini d’étapes.​
 
@@ -69,7 +77,7 @@ Vous faites des algorithmes tous les jours ! Vous êtes étonnés ? Eh oui! puis
 
 Exemple: Algorithme pour démarrer une automobile
 
-##Étapes à suivre pour réaliser un algorithme ​
+## Étapes à suivre pour réaliser un algorithme ​
 
 1. S’assurer de bien comprendre le problème à résoudre ; ​
 
@@ -87,6 +95,8 @@ Exemple: Algorithme pour démarrer une automobile
 
 8. Faire les jeux d’essais.
 
+------------------
+
 ### Instructions
 Une instruction est une opération élémentaire d’un algorithme. ​
 C’est une commande que l’interlocuteur peut comprendre et réaliser.​
@@ -96,6 +106,8 @@ Une instruction précise : ​
 le nom de l’opération à effectuer (lire, écrire, additionner, comparer...)​
 
 les données qui font l’objet de l’opération.
+
+------------------
 
 ### Langages de programmation
 * Ensemble de règles, de symboles et de mots servant à écrire des programmes.​
@@ -112,6 +124,8 @@ les données qui font l’objet de l’opération.
 
 ## <span style="color:red">Comme on apprend la logique de la programmation, le cours de **Programmation 1** pourrait se donner dans **n’importe quel langage**.​</span>
 
+------------------
+
 ## C\#
 
 C# (prononcé C sharp) est un langage de programmation orienté objet à typage fort, créé par la société Microsoft, et notamment un de ses employés, Anders Hejlsberg, le créateur du langage Delphi.​​
@@ -123,6 +137,8 @@ C# est un langage développé par Microsoft dans le but de contrer la popularit�
 * Robuste et sûr​
 * Multitâches
 
+------------------
+
 **Pourquoi notre département a choisi C# pour débuter votre initiation à la programmation?​**
 
 * Très populaire dans l'industrie​
@@ -133,6 +149,8 @@ C# est un langage développé par Microsoft dans le but de contrer la popularit�
 * Gratuit (pour vous)!​
 
 Un second langage de programmation, le **JavaScript**, sera introduit un peu plus tard dans la session. C’est un langage reconnu dans le domaine de la programmation Web et il est de plus en plus utilisé dans d’autres contextes. 
+
+------------------
 
 ## Mon premier programme​
 
@@ -148,6 +166,10 @@ Nous allons débuter un nouveau programme « Bonjour le monde ». ​
 * https://code.visualstudio.com/docs/languages/dotnet​
 * https://code.visualstudio.com/docs/languages/csharp​
 
+------------------
+
+### Les étapes
+
 Étape 1 : Démarrer Visual Studio Code​
 
 Étape 2 : Ouvrir un dossier qui contiendra votre programme​
@@ -161,6 +183,8 @@ Nous allons débuter un nouveau programme « Bonjour le monde ». ​
 
 * View -> Terminal (raccourci clavier : CTRL `)​
 * Dans le terminal, écrivez la commande suivante : dotnet new console​
+
+------------------
   
 Étape 4 : Écrire le code du programme​
 
@@ -173,6 +197,17 @@ Nous allons débuter un nouveau programme « Bonjour le monde ». ​
 * Menu Exécuter > Démarrer le débogage (commande F5)​
 
 Étape 6 : Observez le résultat!
+
+------------------
+
+## Exercice
+
+(Introduction à la programmation)[exercices/introduction-programmation]
+
+## En devoir
+
+Écoutez la vidéo interactive avant le prochain cours et répondez aux questions en cours d'écoute :
+https://edpuzzle.com/assignments/6234c3444b105842fb04d09e/watch
 
 ​
 
