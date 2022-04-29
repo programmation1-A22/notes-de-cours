@@ -6,12 +6,14 @@ nav:
     - Notes de cours :
         - Semaine 1 :
             - Introduction à la programmation : introduction-programmation.md
-            - Débogage : enconstruction.md
             - Concepts fondamentaux : concepts-fondamentaux.md
+            - Débogage : enconstruction.md
         - Semaine 2 - ... : enconstruction.md
         - ... : enconstruction.md
     - Exercices :
-        - Semaine 1 - Introduction à la programmation : 'exercices/introduction-programmation.md'
+        - Semaine 1 :
+            - Introduction à la programmation : 'exercices/introduction-programmation.md'
+            - Concepts fondamentaux : exercices/concepts-fondamentaux.md
         - Semaine 2 - ... : enconstruction.md
         - ... :  enconstruction.md
     - À propos: 

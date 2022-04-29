@@ -1,5 +1,5 @@
 Accès au site : programmation-a-22.github.io
 
-Accès aux notes de cours au format .md : (https://github.com/programmation1-A22/notes-de-cours/tree/main/docs)
+Les notes de cours au format .md sont disponibles dans le dossier docs : https://github.com/programmation1-A22/notes-de-cours/tree/main/docs
 
-Procédure d'installation et de configuration : (https://github.com/programmation1-A22/notes-de-cours/blob/main/docs/procedure.md)
+La procédure d'installation et de configuration du site est disponible dans le fichier docs/procedure.md : https://github.com/programmation1-A22/notes-de-cours/blob/main/docs/procedure.md
